@@ -1,6 +1,6 @@
 print('Hello World')
 
 for i in range(i):
-    print(i)
+    print(i+1)
 
 # TODO: cała apka
